@@ -1,0 +1,19 @@
+.body_background {
+    background-image : url("https://img.freepik.com/free-photo/colorful-painting-supplies-with-white-blank-paper-wooden-background_23-2148118133.jpg?w=1380&t=st=1692178491~exp=1692179091~hmac=0e3fab759d5cfc4d962a9a22d07528d03bb2b12f53f20e4afe079f1332ec1c54");
+    background-position : center;
+    background-size: cover;
+  }
+  
+  h1{
+    color : red;
+    font-size : 40px;
+  }
+  
+  #myCanvas{
+    background-color: white;
+    border-style: ridge;
+  }
+  
+  span{
+    font-size: 20px
+  }
